@@ -44,6 +44,5 @@ I'm a Hobbystic Frontend Dev.<br/> I create websites from userside and I'm respo
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlacKlyExactly&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlacKlyExactly&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
