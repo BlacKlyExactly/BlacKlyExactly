@@ -36,8 +36,7 @@ I'm a Hobbystic Frontend Dev.<br/> I create websites from userside and I'm respo
 <code>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" width="50"/>
 </code>
+<br/>
 
 
-# Frontend Skills
-<img src="https://i.imgur.com/VbNhQpb.png" width="300">
 
