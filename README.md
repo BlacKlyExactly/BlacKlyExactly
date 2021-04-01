@@ -7,7 +7,7 @@ I'm a Hobbystic Frontend Dev.<br/> I create websites from userside and I'm respo
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="50"/>
 </code>
 <code>
-    <img src="https://www.l4a-soft.com/images/services/technologies/frontend/react.svg" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="50"/>
 </code>
 <code>
     <img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" width="50"/>
