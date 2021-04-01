@@ -16,7 +16,7 @@ I'm a Hobbystic Frontend Dev.<br/> I create websites from userside and I'm respo
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="50"/>
 </code>
 <code>
-    <img src="https://p7.hiclipart.com/preview/893/87/686/cascading-style-sheets-logo-clip-art-css3-html-css3-logo.jpg" width="45"/>
+    <img src="https://lh3.googleusercontent.com/proxy/SPqODpQfHQJuUmiODGE-rCSV07776sQ-rLxfDeZlAjrbVoRb8C1vE0KpkX428Fkstm8SEkqQyKgH6E8mQ3uqkEZEiinTl4NDCB6-eb057wpmy_LzfN4fMjes" width="45"/>
 </code><br/>
 <code>
     <img src="https://www.styled-components.com/atom.png" width="50"/>
@@ -31,7 +31,7 @@ I'm a Hobbystic Frontend Dev.<br/> I create websites from userside and I'm respo
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="50"/>
 </code>
 <code>
-    <img src="http://assets.stickpng.com/images/5847f98fcef1014c0b5e48c0.png" width="50"/>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50"/>
 </code><br/>
 <code>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" width="50"/>
