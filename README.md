@@ -31,7 +31,7 @@ I'm a Hobbystic Frontend Dev.<br/> I create websites from userside and I'm respo
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="50"/>
 </code>
 <code>
-    <img src="https://www.guru99.com/images/1/111617_0634_Top20FrontE19.png" width="50"/>
+    <img src="http://assets.stickpng.com/images/5847f98fcef1014c0b5e48c0.png" width="50"/>
 </code><br/>
 <code>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" width="50"/>
