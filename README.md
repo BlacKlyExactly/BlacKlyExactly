@@ -16,7 +16,7 @@ I'm a Hobbystic Frontend Dev.<br/> I create websites from userside and I'm respo
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="50"/>
 </code>
 <code>
-    <img src="https://lh3.googleusercontent.com/proxy/SPqODpQfHQJuUmiODGE-rCSV07776sQ-rLxfDeZlAjrbVoRb8C1vE0KpkX428Fkstm8SEkqQyKgH6E8mQ3uqkEZEiinTl4NDCB6-eb057wpmy_LzfN4fMjes" width="45"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="45"/>
 </code><br/>
 <code>
     <img src="https://www.styled-components.com/atom.png" width="50"/>
