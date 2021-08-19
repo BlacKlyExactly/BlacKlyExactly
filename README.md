@@ -1,8 +1,8 @@
 # About me 👤
 
-I'm a Hobbystic Frontend Dev.<br/> 
-I create websites from userside and I'm responsible for your expiriences of using websites. <br/>
-I like learning and mastering things related with programming<br/>
+I'm a Hobbystic Frontend Dev.<br/>
+I create websites from the user side and I'm responsible for your experience of using websites.<br/>
+I like learning and mastering things related to programming.<br/>
 I hope you enjoy my work!<br/>
 
 - 2nd class of IT Tech School ✍
