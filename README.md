@@ -5,7 +5,7 @@ I create websites from the user side and I'm responsible for your experience of 
 I like learning and mastering things related to programming.<br/>
 I hope you enjoy my work!<br/>
 
-- 2nd class of IT Tech School ✍
+- 3nd class of IT Tech School ✍
 - Live in: Poland 🇵🇱
 - Focused on learning React and Typescript 👀
 
