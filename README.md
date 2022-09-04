@@ -5,7 +5,7 @@ I create websites from the user side and I'm responsible for your experience of 
 I like learning and mastering things related to programming.<br/>
 I hope you enjoy my work!<br/>
 
-- 3nd class of IT Tech School ✍
+- 4th class of IT Tech School ✍
 - Live in: Poland 🇵🇱
 - Focused on learning React and Typescript 👀
 
@@ -28,7 +28,7 @@ I hope you enjoy my work!<br/>
 <a href="https://blackly-exactly.netlify.app">
  <img src="https://i.imgur.com/IbvdAxz.png"/>
 </a>
-- <a href="https://blackly-exactly.netlify.app">Visit: blackly-exactly.netlify.app</a>
+- <a href="https://www.blacklyexactly.com">Visit: blacklyexactly.com</a>
 
 # Stats ⌚
 
