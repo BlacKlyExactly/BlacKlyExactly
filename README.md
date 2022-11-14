@@ -19,7 +19,7 @@ I hope you enjoy my work!<br/>
 <img src="https://www.styled-components.com/atom.png" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" width="50"/>
 <img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" width="50"/>
-<img src="https://codingthesmartway.com/wp-content/uploads/2019/02/gatsby-logo.png" width="45"/>
+<img src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="50"/>
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" width="50"/>
