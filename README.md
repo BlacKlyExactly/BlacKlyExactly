@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF63CE&width=435&lines=Hello%2C+I'm+Sebastian;Frontend+Developer;Sourcepawn+hater;NextJS+enthusiast)](https://git.io/typing-svg)
+
 ## About me 👤
 
 I'm a Hobbystic Frontend Dev.<br>
@@ -24,13 +25,11 @@ I hope you enjoy my work
 <br/><br/>
 
 ## Stats ⌚
+<span>
+  <img src="https://github-readme-stats.vercel.app/api?username=BlacKlyExactly&show_icons=true&theme=synthwave&layout=compact&hide=prs" alt="gh stats">
+</span>
+<span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlacKlyExactly&theme=synthwave&layout=compact&langs_count=6" alt="top langs">
+</span>
 
-<div>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlacKlyExactly&show_icons=true&theme=synthwave&layout=compact&hide=prs)<br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlacKlyExactly&theme=synthwave&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlacKlyExactly&theme=synthwave&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</div>
-
