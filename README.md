@@ -31,5 +31,6 @@ I hope you enjoy my work
 <span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlacKlyExactly&theme=synthwave&layout=compact&langs_count=6" alt="top langs">
 </span>
-
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlacKlyExactly&theme=synthwave&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<span>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BlacKlyExactly&theme=synthwave&layout=compact&langs_count=6" alt="wakatime stats">
+</span>
