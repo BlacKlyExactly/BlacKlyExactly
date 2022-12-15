@@ -33,7 +33,7 @@ I hope you enjoy my work!<br/>
 
 ## Stats ⌚
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlacKlyExactly&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlacKlyExactly&show_icons=true&theme=synthwave&layout=compact)
 <br/>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlacKlyExactly&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
