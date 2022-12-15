@@ -1,4 +1,4 @@
-# About me 👤
+## About me 👤
 
 I'm a Hobbystic Frontend Dev.<br/>
 I create websites from the user side and I'm responsible for your experience of using websites.<br/>
@@ -9,7 +9,7 @@ I hope you enjoy my work!<br/>
 - Live in: Poland 🇵🇱
 - Focused on learning React and Typescript 👀
 
-# My Toolkit 🔨
+## My Toolkit 🔨
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="50"/>
@@ -25,13 +25,13 @@ I hope you enjoy my work!<br/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" width="50"/>
 </p>
 
-# My Portfolio Page 📄
+## My Portfolio Page 📄
 <a href="https://blackly-exactly.netlify.app">
  <img src="https://i.imgur.com/IbvdAxz.png"/>
 </a>
 - <a href="https://www.blacklyexactly.com">Visit: blacklyexactly.com</a>
 
-# Stats ⌚
+## Stats ⌚
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlacKlyExactly&show_icons=true&theme=synthwave)
 <br/>
