@@ -2,13 +2,13 @@
 
 ## About me 👤
 
-I'm a Hobbystic Frontend Dev.<br>
+I'm a Frontend Dev looking for a job.<br>
 I create websites from the user side and I'm responsible for your experience of using websites.<br>
 I like learning and mastering things related to programming.<br>
 
 I hope you enjoy my work
 
-- ✍ 4th class of IT Tech School
+- ✍ Graduate of IT Tech School
 - 🏡 Live in: Poland
 <br/><br/>
 
