@@ -14,7 +14,7 @@ I hope you enjoy my work
 
 ## My toolkit 🔨
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,gatsby,tailwind,styledcomponents,sass,vscode,linux,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,gatsby,tailwind,styledcomponents,sass,vscode,linux,figma&perline=5)](https://skillicons.dev)
 <br/><br/>
 
 ## Useful links 📄
