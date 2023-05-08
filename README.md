@@ -29,7 +29,7 @@ I hope you enjoy my work
   <img src="https://readme-stats-six-zeta.vercel.app/api?username=BlacKlyExactly&show_icons=true&theme=synthwave&layout=compact&hide=prs" alt="gh stats">
 </span>
 <span>
-  <img src="https://readme-stats-six-zeta.vercel.app/api/wakatime?username=BlacKlyExactly&theme=synthwave&layout=compact&langs_count=6" alt="wakatime stats">
+  <img src="https://readme-stats-six-zeta.vercel.app/api/wakatime/?username=BlacKlyExactly&theme=synthwave&layout=compact&langs_count=6" alt="wakatime stats">
 </span>
 <span>
   <img src="https://readme-stats-six-zeta.vercel.app/api/top-langs/?username=BlacKlyExactly&theme=synthwave&layout=compact&langs_count=6" alt="top langs">
