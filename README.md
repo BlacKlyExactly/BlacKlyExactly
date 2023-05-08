@@ -26,7 +26,7 @@ I hope you enjoy my work
 
 ## Stats ⌚
 <span>
-  <img src="https://readme-stats-six-zeta.vercel.app/api?username=BlacKlyExactly&show_icons=true&theme=synthwave&layout=compact&hide=prs" alt="gh stats">
+  <img src="https://readme-stats-six-zeta.vercel.app/api?username=BlacKlyExactly&show_icons=true&theme=synthwave&layout=compact&hide=prs&card_width=800" alt="gh stats">
 </span>
 
 <div>
