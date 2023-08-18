@@ -26,12 +26,12 @@ I hope you enjoy my work
 
 ## Stats ⌚
 <span>
-  <img src="https://readme-stats-six-zeta.vercel.app/api?username=BlacKlyExactly&show_icons=true&theme=synthwave&layout=compact&hide=prs&card_width=800" alt="gh stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlacKlyExactly&show_icons=true&theme=synthwave&layout=compact&hide=prs&card_width=800" alt="gh stats">
 </span>
 
 <div>
   <span>
-    <img src="https://readme-stats-six-zeta.vercel.app/api/top-langs/?username=BlacKlyExactly&theme=synthwave&layout=compact&langs_count=6line_height=50" alt="top langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlacKlyExactly&theme=synthwave&layout=compact&langs_count=6line_height=50" alt="top langs">
   </span>
   <span>
     <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=BlacKlyExactly&theme=synthwave&layout=compact&langs_count=6&v=2" alt="wakatime stats">
