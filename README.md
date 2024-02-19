@@ -33,7 +33,3 @@ I hope you enjoy my work
     <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=BlacKlyExactly&theme=synthwave&layout=compact&langs_count=6&v=2" alt="wakatime stats">
   </span>
 </div>
-
-## Snake 🐍
-
-<img style="margin-top: 120px;" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="footer">
