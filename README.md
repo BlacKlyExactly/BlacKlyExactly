@@ -2,10 +2,7 @@
 
 ## About me 👤
 
-I'm a Fullstack Dev looking for a job.<br>
-I create websites from the user side and I'm responsible for your experience of using them.<br>
-I like learning and mastering things related to programming.<br>
-
+Fullstack Developer. Next.js, TypeScript, Go, and occasional C. Currently studying Software Engineering.
 I hope you enjoy my work
 
 - ✍ Graduate of IT Tech School
