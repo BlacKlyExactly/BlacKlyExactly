@@ -5,7 +5,6 @@
 Fullstack Developer. Next.js, TypeScript, Go, and occasional C. Currently studying Software Engineering.
 I hope you enjoy my work
 
-- ✍ Graduate of IT Tech School
 - 🏡 Live in: Poland
 - ✍ Currently in college (Software engineering)
 <br/><br/>
